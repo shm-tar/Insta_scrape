@@ -1,0 +1,1 @@
+[{"text": "ADDRESS: 208 Delancey Street\nCITY: New York\nMARKET: Manhattan \nASSET TYPE: Project Site\nPRICE: $29,000,000\nSELLER: Andy Zhu\nBUYER: New Empire Real Estate Development - Bentley Zhao\nDATE: 12/21/17"}]
